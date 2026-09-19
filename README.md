@@ -1,72 +1,57 @@
-# Mark Alexiuk, Ph.D., P.Eng.
+# Mark Alexiuk
 
-**AI/ML Architect | 25+ years | Membrane Computing Researcher | 20+ Publications**
+**AI/ML Architect | 25+ years | Retired P.Eng. | 20+ Publications**
 
-Building agentic AI systems and benchmarking bio-inspired algorithms for hierarchical optimization.
-
----
-
-## 🔬 Featured Research
-
-### **Membrane Computing for Hierarchical Optimization**
-
-P-systems benchmarked against genetic algorithms and particle swarm optimization on CEC2017 functions.
-
-- **Malta Framework:** Reproducible benchmarking of bio-inspired algorithms
-- **Key Results:** 230 passing tests, Docker deployment, CI/CD integration
-- **Publication:** Benchmarking paper (Sep 2026)
-- **GitHub:** [baseline0/membrane](https://github.com/baseline0/membrane)
-
-**Why this matters:** Insurance companies manage hierarchical regulatory compliance. Membrane systems naturally model nested rule structures. I've benchmarked this approach empirically and published the methodology.
+Building production AI/ML systems and exploring research directions in agentic AI and membrane computing.
 
 ---
 
-## 🏗️ Other Work
+## 🔬 Featured Work
 
-- **data-engineering-playbook** — Reusable data pipeline patterns
-- **flashcards** — Learning tools for technical domains
-- **storybook** — UI component showcase
+**Membrane Computing Research**
+- P-system benchmarking framework (Malta) for hierarchical optimization
+- 230 passing tests, reproducible methodology, Docker deployment
+- GitHub: [baseline0/membrane](https://github.com/baseline0/membrane)
+
+**Agentic AI Systems** (in progress)
+- Multi-agent autonomous software development
+- Research direction: quantum computing applications
+
+---
+
+## 💻 Projects
+
+- **data-engineering-playbook** — Reusable patterns for data systems
+- **flashcards** — Technical learning tools  
+- **storybook** — Component references
 - **uwinnipeg_physics_finance_2024** — Teaching materials
 
 ---
 
-## 📊 Background
+## 📚 Credentials
 
 - **Ph.D.** Electrical & Computer Engineering, University of Manitoba
-  - *Dissertation:* Spatio-temporal fuzzy clustering of neuroimaging data
-  
-- **20+ peer-reviewed publications** in AI, medical imaging, fuzzy systems, pattern recognition
+- **Retired P.Eng.** — Professional engineering background
+- **20+ publications** in AI, medical imaging, fuzzy systems
+- **25+ years** in production ML systems (healthcare, agriculture, fintech)
+- **Adjunct Professor**, University of Winnipeg
 
-- **25+ years** building production ML systems across healthcare, agriculture, fintech
-
-- **Adjunct Professor**, University of Winnipeg — Teaching agentic AI and distributed systems
-
-- **P.Eng., IEEE Senior Member** — Professional engineering credentials
+All research available at [Google Scholar](https://scholar.google.com/citations?user=D-mIQ8sAAAAJ).
 
 ---
 
-## 🎯 Currently Exploring
+## 🔗 Links
 
-- Agentic AI systems for autonomous software development
-- Quantum computing applications to membrane algorithms
-- Insurance regulatory compliance modeling
+📄 [Google Scholar](https://scholar.google.com/citations?user=D-mIQ8sAAAAJ) — Publications & Patents
 
----
+🐙 [GitHub](https://github.com/baseline0) — Code & Projects
 
-## 📚 Credentials & Links
-
-🔗 **[LinkedIn](https://linkedin.com/in/markalexuk)** — Career history & recommendations
-
-📄 **[Google Scholar](https://scholar.google.com/citations?user=D-mIQ8sAAAAJ)** — 20+ publications
-
-🐙 **[GitHub](https://github.com/baseline0)** — Code & projects
+💼 [LinkedIn](https://linkedin.com/in/markalexuk) — Background
 
 ---
 
-## 🚀 Let's Talk
+## 👋 Open To
 
-Interested in AI/ML architecture, research collaboration, or agentic systems? 
+Collaboration, architectural discussions, and research partnerships in AI/ML systems.
 
-📧 **Email:** malexiuk@gmail.com
-
-Looking for roles in senior AI/ML architecture, research science, or systems thinking. Open to Winnipeg-based and remote opportunities.
+📧 malexiuk@gmail.com
