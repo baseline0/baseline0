@@ -1,57 +1,59 @@
 # Mark Alexiuk
 
-**AI/ML Architect | 25+ years | Retired P.Eng. | 20+ Publications**
+**Curious problem solver | Researcher + Engineer | 25+ years | 20+ Publications**
 
-Building production AI/ML systems and exploring research directions in agentic AI and membrane computing.
+Exploring distributed systems, bio-inspired algorithms, and emerging AI paradigms. Continuous learner.
 
 ---
 
-## 🔬 Featured Work
+## 🔬 Recent Exploration
 
-**Membrane Computing Research**
-- P-system benchmarking framework (Malta) for hierarchical optimization
-- 230 passing tests, reproducible methodology, Docker deployment
+**Membrane Computing & P-Systems**
+- Research framework for hierarchical optimization (Malta)
+- Benchmarking bio-inspired algorithms against conventional approaches
+- 230 tests, reproducible methodology, open code
 - GitHub: [baseline0/membrane](https://github.com/baseline0/membrane)
 
-**Agentic AI Systems** (in progress)
+**Agentic AI Systems**
 - Multi-agent autonomous software development
-- Research direction: quantum computing applications
+- Thinking about quantum computing applications
 
 ---
 
 ## 💻 Projects
 
-- **data-engineering-playbook** — Reusable patterns for data systems
-- **flashcards** — Technical learning tools  
+- **data-engineering-playbook** — Patterns for building data systems
+- **flashcards** — Learning tools
 - **storybook** — Component references
 - **uwinnipeg_physics_finance_2024** — Teaching materials
 
 ---
 
-## 📚 Credentials
+## 📖 Background
 
-- **Ph.D.** Electrical & Computer Engineering, University of Manitoba
+- **Ph.D.** Electrical & Computer Engineering (University of Manitoba)
+- **M.Sc.** in Applied ML
 - **Retired P.Eng.** — Professional engineering background
-- **20+ publications** in AI, medical imaging, fuzzy systems
-- **25+ years** in production ML systems (healthcare, agriculture, fintech)
-- **Adjunct Professor**, University of Winnipeg
+- **25+ years** solving problems in healthcare, agriculture, fintech, research
+- **20+ publications** in AI, medical imaging, pattern recognition, fuzzy systems
+- **Adjunct Professor**, University of Winnipeg — Teaching distributed systems & agentic AI
 
-All research available at [Google Scholar](https://scholar.google.com/citations?user=D-mIQ8sAAAAJ).
-
----
-
-## 🔗 Links
-
-📄 [Google Scholar](https://scholar.google.com/citations?user=D-mIQ8sAAAAJ) — Publications & Patents
-
-🐙 [GitHub](https://github.com/baseline0) — Code & Projects
-
-💼 [LinkedIn](https://linkedin.com/in/markalexuk) — Background
+All research: [Google Scholar](https://scholar.google.com/citations?user=D-mIQ8sAAAAJ)
 
 ---
 
-## 👋 Open To
+## 🎯 What Drives Me
 
-Collaboration, architectural discussions, and research partnerships in AI/ML systems.
+Problem-solving. Curiosity about how things work. Learning continuously. Building systems that matter.
+
+---
+
+## 🔗 Find Me
+
+📄 [Google Scholar](https://scholar.google.com/citations?user=D-mIQ8sAAAAJ)
+
+🐙 [GitHub](https://github.com/baseline0)
+
+💼 [LinkedIn](https://linkedin.com/in/markalexuk)
 
 📧 malexiuk@gmail.com
