@@ -10,6 +10,6 @@ Researcher + Engineer
 
 🐙 [GitHub](https://github.com/baseline0)
 
-💼 [LinkedIn](https://linkedin.com/in/markalexuk)
+💼 [LinkedIn](https://www.linkedin.com/in/markalexiuk/)
 
 📧 malexiuk @ gmail . com
